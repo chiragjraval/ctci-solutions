@@ -1,4 +1,4 @@
-package com.chirag.ctci.String;
+package com.chirag.ctci.string;
 
 import static org.testng.Assert.assertFalse;
 import static org.testng.Assert.assertTrue;
@@ -6,6 +6,8 @@ import static org.testng.Assert.assertTrue;
 import org.apache.commons.lang3.StringUtils;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
+
+import com.chirag.ctci.string.PalindromePermutationValidator;
 
 public class PalindromePermutationValidatorTest {
 

@@ -1,4 +1,4 @@
-package com.chirag.ctci.String;
+package com.chirag.ctci.string;
 
 import org.apache.commons.lang3.StringUtils;
 

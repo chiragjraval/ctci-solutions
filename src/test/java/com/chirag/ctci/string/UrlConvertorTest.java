@@ -1,4 +1,4 @@
-package com.chirag.ctci.String;
+package com.chirag.ctci.string;
 
 import static org.testng.Assert.assertEquals;
 
@@ -6,7 +6,7 @@ import org.apache.commons.lang3.StringUtils;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
-import com.chirag.ctci.String.UrlConvertor;
+import com.chirag.ctci.string.UrlConvertor;
 
 public class UrlConvertorTest {
 
